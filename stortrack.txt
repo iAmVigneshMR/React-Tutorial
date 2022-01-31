@@ -1,8 +1,0 @@
-stortrack (us,uk)
-
-main : https://staging.stortrack.com/
-
-//////////(testing)
-LSS - US: http://staging-ai.listselfstorage.com/
-LSS UK : http://stg-uk.listselfstorage.co.uk/
-//////////(testing)
